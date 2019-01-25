@@ -1,5 +1,8 @@
 git is a file version control system
 add a word
+
+add this line in client. if pull directly,will not promise.
+
 add tow words
 
 
