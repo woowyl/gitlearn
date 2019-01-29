@@ -1,1 +1,3 @@
 inner file in folder
+
+test fetch in folder
