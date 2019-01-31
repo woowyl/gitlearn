@@ -10,3 +10,7 @@ this test is for merge log sequence2
 
 
 test in ff md for rebase
+
+
+
+test in ff md for rebase2
