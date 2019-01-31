@@ -15,3 +15,6 @@ test fetch 2
 
 add line  add  conflict
 add line ......
+
+testing merge different branches
+
