@@ -18,3 +18,5 @@ add commit 3
 add commit 4
 
 test rebase added in master branch
+
+make conflict for rebase test in master branch
