@@ -16,3 +16,5 @@ add commit 2
 add commit 3
 
 add commit 4
+
+test rebase added in master branch
