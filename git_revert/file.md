@@ -10,3 +10,5 @@ and this contain other line change in the third commit
 - git revert 测试
 - no conflict 
 - hello yes
+- after test
+- hello world
